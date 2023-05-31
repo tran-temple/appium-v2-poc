@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Sample Test Suite" parallel="tests">
+    <!--    <test name="First Test">
+            <parameter name="deviceName" value="emulator-5556"/>
+            <parameter name="platformVersion" value="12"/>
+            <parameter name="portNumber" value="7777"/>
+            <classes>
+                <class name="testcases.HomePageSampleIT"/>
+            </classes>
+        </test>-->
+
+    <test name="Second Test">
+        <parameter name="deviceName" value="emulator-5554"/>
+        <parameter name="platformVersion" value="12"/>
+        <parameter name="portNumber" value="6666"/>
+        <classes>
+            <class name="testcases.HomePageSampleIT"/>
+        </classes>
+    </test>
+
+
+</suite> <!-- Suite -->
