@@ -39,7 +39,7 @@ This repository contains samples to show how to use non COE-Mac + Appium (2.x) t
     ```
     npm i -g appium@next
     ```
-11. Install drivers: XCUITest and UiAutomator2
+11. Install Appium drivers: XCUITest and UiAutomator2
     ```
     appium driver install xcuitest
     appium driver install uiautomator2
@@ -52,7 +52,7 @@ This repository contains samples to show how to use non COE-Mac + Appium (2.x) t
     ```
     npm install appium-doctor -g
     ```
-14. Run the Appium Doctor to check if everything is configured properly. The Doctor will provide detailed information on issues, if any:
+14. Run the Appium Doctor to check if everything is configured properly. The Appium Doctor will provide detailed information on issues, if any:
     ```
     appium-doctor
     ```
