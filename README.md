@@ -1,5 +1,5 @@
 ## **Appium (2.x) - Mobile Testing on real devices and emulators/simulators**
-### This repository contains samples to show how to use non COE-Mac + Appium (2.x) to develop some simple test scripts running on real devices (e.g iPhone, iPad, Android tablet, Android phone) and Android Emulators + iOS Simulators
+This repository contains samples to show how to use non COE-Mac + Appium (2.x) to develop some simple test scripts running on real devices (e.g iPhone, iPad, Android tablet, Android phone) and Android Emulators + iOS Simulators
 
 ### **Getting Started**
 1. Install Homebrew (it’s a package management system that makes it easier to install software on Mac OS machines)
